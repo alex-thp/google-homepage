@@ -1,1 +1,1 @@
-Notre code de la page d'acceil de Google.
+Notre code de la page d'accueil de Google.
